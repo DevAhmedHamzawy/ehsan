@@ -1,0 +1,14 @@
+@import url(https://cdn.rtlcss.com/bootstrap/v4.2.1/css/bootstrap.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.3/css/mdb.min.css);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Cairo&display=swap);
+
+@media (min-width: 768px) {
+    .h-md-100 {height: 100vh;}
+  }
+body{ font-family: 'Cairo', sans-serif; }
+.loginformarea{ background-color:#303337; color: #fff; direction: rtl; } 
+.loginformarea form{ width: 100%; height: 400px; } 
+.btn-round { border-radius: 30px;}
+.bg-indigo {background: url('../images/login/1.jpg');}
+.text-cyan { color: #35bdff;}
